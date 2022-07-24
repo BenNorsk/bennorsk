@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey everyone!
+This is my Github profile, where I host various personal projects. It is certainly worth checking out Fiorella Code, my own esoteric programming language (yes, created for my girlfirend Fiorella).
+Also, while the code is not published, you may be interested in the [website of the Crypto Society St. Gallen](https://cryptosocietystgallen.club/), which I've created 
+as a python flask application. 
+
+
 
 <!--
 **BenNorsk/bennorsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

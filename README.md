@@ -1,5 +1,8 @@
 ### Hey everyone!
-This is my Github profile, where I host various personal projects. It is certainly worth checking out Fiorella Code, my own esoteric programming language (yes, created for my girlfirend Fiorella).
+This is my Github profile, where I host various personal projects. 
+## Fiorella Code
+It is certainly worth checking out Fiorella Code, my own esoteric programming language, created for my girlfirend Fiorella. Saying it is a brainfuck sister is sort of an understatement, it is pretty much brainfuck
+## Crypto Society St. Gallen
 Also, while the code is not published, you may be interested in the [website of the Crypto Society St. Gallen](https://cryptosocietystgallen.club/), which I've created 
 as a python flask application. 
 

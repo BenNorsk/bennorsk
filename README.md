@@ -1,11 +1,7 @@
-### Hey everyone!
-This is my Github profile, where I host various personal projects. 
-## Fiorella Code
-It is certainly worth checking out Fiorella Code, my own esoteric programming language, created for my girlfirend Fiorella. Saying it is a brainfuck sister is sort of an understatement, it is pretty much brainfuck.
-## Crypto Society St. Gallen
-Also, while the code is not published, you may be interested in the [website of the Crypto Society St. Gallen](https://cryptosocietystgallen.club/), which I've created 
-as a python flask application. 
+# Hey everyone!
+I am deeply passionate about creating things. Therefore, I would happily invite you to have a look at my **pinned repos**, to see what this may be! In case you're interested in my professional services, I am happy to refer you to my website.
 
+https://bruecknerdata.com/
 
 
 <!--
